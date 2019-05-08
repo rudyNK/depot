@@ -30,5 +30,5 @@ Product.create!(title: 'Shoes',
       Weight of footwear is based on a single item, not a pair.
     Measurements: Weight: 11 oz View Zappos.com Glossary of 
     </p>},
-    image_url: 'shoes1.jpg',
+    image_url: '1shoes.jpg',
     price: 150.00)
